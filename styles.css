@@ -1,0 +1,11 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner{
+    background-image: url(/portfolio/N\ Rakesh\ Raj.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 250px;
+    
+}
